@@ -1,0 +1,10 @@
+{
+  "name": "ZenPDF",
+  "description": "Extension for hiding toolbar from the top of PDF viewer in Google Chrome",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "images/zen-pdf-logo.png"
+  }
+}
